@@ -7,7 +7,7 @@ analysis and basic query-plan inspection.
 ## Tools
 
 - PostgreSQL 18
-- Visual Studio Code
+- VS Code
 - psql
 
 ## Dataset
